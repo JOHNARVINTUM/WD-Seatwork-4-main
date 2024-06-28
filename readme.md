@@ -4,23 +4,24 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/JOHNARVINTUM/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-Seatwork-4-main</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Demonstration project for feature pages with variants of animation and themes. Features provide information about the certain product, website, and even company
+</div>
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=JOHNARVINTUM/WD-Seatwork-4-main)
 
 ---
 
@@ -57,20 +58,16 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project demosntrates how to code features page, Including Dynamic/Static desings, using HTML and CSS. The purpose of the project is to learn HTML, CSS code, and JavaScript.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Dynamic Designs
+- Static Designs
+- JavaScript
+- Href Links
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +114,13 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| zyx-0314  | Template for Seatwork 4 | https://github.com/zyx-0314/WD-Seatwork-4.git |
+| Bootstrap | For Embedded code and Java | https://getbootstrap.com/docs/5.3/about/overview/#team |
+| Ferrari   | Information about Ferrari | https://www.ferrari.com/en-EN/auto/sf90-stradale |
+| Lamborghini | Information abut Lamborghini | https://www.lamborghini.com/en-en |
+| Chevrolete | Information about Corvette | https://www.chevrolet.com/performance/corvette |
+| Rolls-Roycs | Information about Rolls-Royce | https://www.rolls-roycemotorcars.com/en_GB/home.html |
+| W3School | For HTML And CSS Guide | https://www.w3schools.com/html/default.asp |
+| Hennessey | Information about Hennessey Corvette | https://www.hennesseyperformance.com/ |
+
+
