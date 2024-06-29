@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-Project demonstration for feature pages using several themes and animations. Features give details about a specific product, website, or even business.
+Project demonstration for feature section using several themes and animations. Features give details about a specific product, website, or even business.
 </div>
 </div>
 
@@ -58,7 +58,7 @@ Project demonstration for feature pages using several themes and animations. Fea
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The project serves as an example of how to use HTML and CSS to code features pages, including dynamic and static designs. The project's goal is to teach you HTML, CSS, and JavaScript.
+The project serves as an example of how to use HTML and CSS to code features section, including dynamic and static designs. The project's goal is to teach you HTML, CSS, and JavaScript.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
