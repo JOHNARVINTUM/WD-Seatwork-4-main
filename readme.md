@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- Demonstration project for feature pages with variants of animation and themes. Features provide information about the certain product, website, and even company
+Project demonstration for feature pages using several themes and animations. Features give details about a specific product, website, or even business.
 </div>
 </div>
 
@@ -58,7 +58,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The project demosntrates how to code features page, Including Dynamic/Static desings, using HTML and CSS. The purpose of the project is to learn HTML, CSS code, and JavaScript.
+The project serves as an example of how to use HTML and CSS to code features pages, including dynamic and static designs. The project's goal is to teach you HTML, CSS, and JavaScript.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -122,5 +122,12 @@ WD-ProjectName
 | Rolls-Roycs | Information about Rolls-Royce | https://www.rolls-roycemotorcars.com/en_GB/home.html |
 | W3School | For HTML And CSS Guide | https://www.w3schools.com/html/default.asp |
 | Hennessey | Information about Hennessey Corvette | https://www.hennesseyperformance.com/ |
+
+## Instructions
+
+Use the Navigation home to go back to the landing page. Use feature 1 whenever you want to go to next page, same with feature 2. Use footer logo to go directly to my GITHUB account
+
+## Deployment link
+https://johnarvintum.github.io/WD-Seatwork-4-main/
 
 
